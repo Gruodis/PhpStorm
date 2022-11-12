@@ -3,9 +3,9 @@
 <h1 align="center">PhpStorm Settings on Linux OS</h1>
 
 
-### :computer: Enable Tailwind autocomplete & Commands available in PhpStorm terminal
+#### :computer: Enable Tailwind autocomplete & Run commands >_ in PhpStorm terminal
 
-- Download and unpack PhpStorm v2022.2.1 package to **_/opt_** directory and running this installation should make commands available in the terminal.
+- Download and unpack ***PhpStorm v2022.2.1*** package to **_/opt_** directory and running this installation should make commands available in the terminal.
 
 #### Create PhpStorm shortcut in OS Applications (Start Bar)
 
