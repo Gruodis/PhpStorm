@@ -10,7 +10,7 @@
 #### Create PhpStorm shortcut in OS Applications (Start Bar)
 
 - Create file in: ``/usr/share/applications/phpstorm.desktop``
-- Inside phpstorm.desktop file:
+- Inside **"phpstorm.desktop"** file:
  
   -   ```bash
       [Desktop Entry]
